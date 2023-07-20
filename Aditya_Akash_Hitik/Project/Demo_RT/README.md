@@ -1,4 +1,4 @@
-# Graph Network Analysis
+# Analysis of Web Page Connections on a Social Media Platform
 
 #### IMPORTANT: Please import the princeton algs4.jar file from: https://algs4.cs.princeton.edu/code/ <br>
 
