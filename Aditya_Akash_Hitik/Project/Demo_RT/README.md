@@ -2,6 +2,8 @@
 
 #### IMPORTANT: Please import the princeton algs4.jar file from: https://algs4.cs.princeton.edu/code/ <br>
 
+#### Project Report Link - https://docs.google.com/document/d/1eKzupUwlNBVfo8zvZM7SBaJVt7C00i4ZdpvMbNbRuJ0/edit <br>
+
 This repository consists of two parts
 
 ## Demo 1 
