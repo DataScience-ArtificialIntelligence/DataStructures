@@ -13,9 +13,9 @@ The source code for Demo 1 located at src/Dem1Pack.
 This demo consists of three multi layered transportation network graphs.  <br>
 
 Dataset File Names:- <br>
-1. "G1.txt"
-2. "G2.txt"
-3. "G3.txt" <br>
+1. "G1.txt" - Roadways
+2. "G2.txt" - Railways
+3. "G3.txt" - Airways<br>
 
 Datasets are under the main project folder.
 
