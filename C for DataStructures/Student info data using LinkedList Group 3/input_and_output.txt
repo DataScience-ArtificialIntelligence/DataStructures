@@ -1,0 +1,68 @@
+# Lab11DSA
+
+Q1) Student Code (create, trverse, insert, delete)
+Input:
+How many elements to enter: 
+3
+Enter the rollno, name and age of the student 1: 10
+Ash 
+17
+Enter the rollno, name and age of the student 2: 18   
+Brook
+18
+Enter the rollno, name and age of the student 3: 21   
+Misty
+17
+Data to be inserted: 20
+Harry
+19
+
+Insert the added data before rollno (-ve for end):21
+
+Delete the data or replace the rollno :18
+
+Output:
+
+           Rollno       Name    Age
+Student 1: 10           Ash     17
+Student 2: 18           Brook   18
+Student 3: 21           Misty   17
+
+Rollno       Name    Age
+Student 1: 10           Ash     17
+Student 2: 20           Harry   19
+Student 3: 21           Misty   17
+
+
+Q2) a) Concatenate two given list into one big list
+Input:
+Enter the size of first linked list
+6
+Enter the size of second linked list
+8
+Enter the elements of the first linked list
+8 4 1 9 9 0
+Enter the elemnts of the second linked list
+1 8 1 2 2 0 1 7
+
+Output:
+1st Linked List: 8 4 1 9 9 0
+2nd Linked List: 1 8 1 2 2 0 1 7
+Concantenated Linked List:
+8 4 1 9 9 0 1 8 1 2 2 0 1 7 
+
+b) Insert an element in a linked list in sorted order
+Input:
+Linked list before insertion : 10 15 20 
+Enter data you want to insert: 18
+
+Output:
+Linked list after insertion : 10 15 18 20
+
+c) Always insert elements at one end, and delete elements from the other end (first-in first-out QUEUE).
+Output:
+10
+20
+30
+Queue is empty
+
