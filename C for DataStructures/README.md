@@ -10,7 +10,7 @@ As discussed in the Linked-list slides build
 
 3. In the last slides
 Write a function to:
-3a) Concatenate two given list into one big list. 
+3a) Concatenate two given lists into one big list. 
 node *concatenate (node *head1, node *head2);
 
 3b) Insert an element in a linked list in sorted order. The function will be called for every element to be inserted.
@@ -23,3 +23,5 @@ node *delete_q (node **head) /* Return the deleted node */
 4. Report the results in the two assignments (original).
 
 5. Explain the input and output of the Data structure codes
+
+
