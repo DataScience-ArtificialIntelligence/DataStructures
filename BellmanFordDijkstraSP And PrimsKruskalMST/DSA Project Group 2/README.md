@@ -1,4 +1,4 @@
-//Group1 members
+//Group2 members
 #1 Niharika 22bds050
 #2 Dhrithi 22bds018
 #3 Vansh 22bds061

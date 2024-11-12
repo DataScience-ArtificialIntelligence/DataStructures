@@ -59,6 +59,11 @@ Key -
 - DegConn - Degree of Connections
 - Z_Factor - Calculation of Z-Score(Mathematical Operation)
 
+//Group5 members
+#1 Aditya Raj - 22BDS002
+#2 Akash Kumar Nayak -22BDS003
+#3 Hitik Adwani - 22BDS029
+
 
 
 
