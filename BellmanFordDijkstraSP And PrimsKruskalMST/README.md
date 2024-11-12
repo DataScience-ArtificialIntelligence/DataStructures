@@ -1,5 +1,5 @@
 # Data Structures Projects:  
-1. Use existing BellmanFord, Dijkstra for Shortest Path and Prims Kruskal for Mininmum Spanning Tree codes with 4 properties, (https://algs4.cs.princeton.edu/)
+1. Use existing BellmanFord, Dijkstra for Shortest Path and Prims Kruskal for Minimum Spanning Tree codes with 4 properties, (https://algs4.cs.princeton.edu/)
 2. Perform experiments on a dataset, and 
 3. Report the results in the three assignments (original). 
 4. Describe graph dataset (about name and relationship between vertices and edges) provided in the reference paper.
@@ -34,9 +34,9 @@ Done
 
 # Lab3: Select a few datasets from the SNAP https://snap.stanford.edu/data/
 Apply a few basic algorithms of Graph https://algs4.cs.princeton.edu/40graphs/
-Currently, it is not expected to be proficient in all this. Just keep on following and reading the links and instructions shared. In long term, you will learn how Code and Data Structures works together.
+Currently, it is not expected to be proficient in all this. Just keep on following and reading the links and instructions shared. In the long term, you will learn how Code and Data Structures works together.
 
-# Lab 4: To keep symmetry, select anyone of the following network data from the link: https://snap.stanford.edu/data/
+# Lab 4: To keep symmetry, select any one of the following network data from the link: https://snap.stanford.edu/data/
 Social networks : online social networks, edges represent interactions between people
 Citation networks : nodes represent papers, edges represent citations
 Collaboration networks : nodes represent scientists, edges represent collaborations (co-authoring a paper)
@@ -65,20 +65,20 @@ Create a Table with 4 properties × 4 algorithms. Write all 16 values after calc
 
 Make the above table for two case-studies.
 Case 1: Demo the table for the Example graphs (G1, G2, G3) given in the Q5 of Mid-term. For simplicity, treat the three G1, G2, G3 as Undirected graphs. The 4 properties are Mean (Average), Median, Minimum, and Maximum. The 4 algorithms are Prim's, Kruskal's, Dijkstra's, Bellman-ford's.    
-Case 2: Demo the table for the Dataset written in the Q1 of Mid-term. If the dataset has undirected-graphs making multi-graphs or evolving-graphs, then repeat the above 4 properties and 4 algorithms. Else, for the single graph, choose the 4 properties and 4 algorithms, but all this need to make sense; such group can switch to multi-graphs ore evolving-graphs. 
+Case 2: Demo the table for the Dataset written in the Q1 of Mid-term. If the dataset has undirected-graphs making multi-graphs or evolving-graphs, then repeat the above 4 properties and 4 algorithms. Else, for the single graph, choose the 4 properties and 4 algorithms, but all this need to make sense; such a group can switch to multi-graphs or evolving-graphs. 
 Visual analytics and summarizations will be appreciated.
 
 # Lab 8: Start filling the form and start preparing three assignments: write-up report (2 pages only), ppts, video presentation (10 minutes).
 
 For the public dataset of the project.
 
-- Full-flexibility to chose the 4 algorithms and 4 properties, which make sense for your dataset. 
-- Full-flexibility to demonstrate table of any size. Means, table is not fixed to 4  × 4 × 2 entries.
+- Full-flexibility to choose the 4 algorithms and 4 properties, which make sense for your dataset. 
+- Full-flexibility to demonstrate tables of any size. Means, the table is not fixed to 4  × 4 × 2 entries.
 
 However,  the 4  × 4 × 2 entries will be fixed for the Q5 Mid-term example (treat it as undirected or directed as per the requirement).
 
 - Suggestion for better report and presentation:
-1. Plot a time-series plot on sensible for X-axis and Y-axis. 
+1. Plot a time-series plot on sensible X-axis and Y-axis. 
 2. The time-series should generate sensible observations and findings.
 
 
@@ -90,6 +90,6 @@ Do not use available text and content. Final submission date and evaluation will
 
 # Lab 10: 
 For better presentation 
-Input: Use Switch-case or If-else to prompt user and chosen by the user. Use hierarchy of Problem then possible ways to solve it on terminal. Write name and describe (1 or 2 lines) its data structure used in the code on the terminal. Use may use different data structure to execute the code for same problem.
+Input: Use Switch-case or If-else to prompt the user and choose by the user. Use a hierarchy of problems then possible ways to solve it on the terminal. Write name and describe (1 or 2 lines) its data structure used in the code on the terminal. Users may use different data structures to execute the code for the same problem.
 
-Output: Present some basic Visualization of the result. For example, use Excel graph-plot to present visual graphs and figures.
+Output: Present some basic Visualisation of the result. For example, use Excel graph-plot to present visual graphs and figures.
